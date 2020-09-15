@@ -5,3 +5,4 @@ Git can trace
 Creating a new branch is quick.
 this is my new line
 and & and
+use --no-ff try
